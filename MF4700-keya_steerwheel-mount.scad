@@ -1,4 +1,4 @@
-/ --- DISPLAY & EXPORT SETTINGS ---
+// --- DISPLAY & EXPORT SETTINGS ---
 // Set to 'true' to visualize or 'false' to hide during STL export (F6)
 show_top_mold    = true; // Enable only this to export the Top part
 show_bottom_mold = true; // Enable only this to export the Bottom part
@@ -190,3 +190,4 @@ module bottom_mold(b_v, b_a, l, d, z_wand, t_wand, gap, m_h) {
     }
 
 }
+
