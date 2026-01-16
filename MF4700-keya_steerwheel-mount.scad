@@ -1,7 +1,8 @@
-// --- DISPLAY SETTINGS (On/Off) ---
-show_top_mold    = true;
-show_bottom_mold = true;
-show_dashboard   = true;
+/ --- DISPLAY & EXPORT SETTINGS ---
+// Set to 'true' to visualize or 'false' to hide during STL export (F6)
+show_top_mold    = true; // Enable only this to export the Top part
+show_bottom_mold = true; // Enable only this to export the Bottom part
+show_dashboard   = true; // Reference geometry only; will not be part of the final print
 
 // --- DASHBOARD DIMENSIONS ---
 // The core dimensions of the dashboard part the mold fits around
@@ -187,4 +188,5 @@ module bottom_mold(b_v, b_a, l, d, z_wand, t_wand, gap, m_h) {
         translate([-extra_hole_x_offset, extra_hole_y_offset, start_z - 1])
             cylinder(d = extra_hole_diameter, h = total_height + 2, $fn = 50);
     }
+
 }
