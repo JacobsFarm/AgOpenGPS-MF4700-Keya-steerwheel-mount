@@ -16,7 +16,6 @@ Parametric OpenSCAD mount for Keya steering motors on Massey Ferguson consoles. 
 ![PXL_20260116_161837571(1)](https://github.com/user-attachments/assets/6a119f3a-2b5a-412f-9d60-54cc49c7b51a)
 ![PXL_20260116_161953877](https://github.com/user-attachments/assets/0b34046c-415d-4cc6-b676-576f6aae8176)
 
-
 🛠 Features
 
     Two-Piece Design: Includes top and bottom clamp molds for a secure, no-drill installation on the steering column.
@@ -28,6 +27,15 @@ Parametric OpenSCAD mount for Keya steering motors on Massey Ferguson consoles. 
     Utility Hole: 12mm extra hole for wiring or sensors.
 
     Parametric: Adjust clearance (standard 0.3mm) or dimensions via OpenSCAD for a perfect fit.
+
+    Print with 
+
+## 🖨 How to Export for Printing
+[cite_start]Since this model contains multiple parts, you need to toggle the visibility in OpenSCAD before rendering your STL files[cite: 1, 12, 13, 14]:
+
+* [cite_start]**Top Part:** Set `show_top_mold = true` and `show_bottom_mold = false`[cite: 1, 12]. Press **F6** to render and **F7** to save as STL.
+* [cite_start]**Bottom Part:** Set `show_top_mold = false` and `show_bottom_mold = true`[cite: 1, 13]. Press **F6** to render and **F7** to save as STL.
+* [cite_start]**Dashboard Reference:** The `show_dashboard` toggle is for visualization only[cite: 1, 11]. It is automatically excluded from the final render (using the `%` background operator) to ensure a clean print.
 
 📦 Files
 
