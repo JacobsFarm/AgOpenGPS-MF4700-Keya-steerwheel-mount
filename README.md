@@ -13,10 +13,9 @@ Parametric OpenSCAD mount for Keya steering motors on Massey Ferguson consoles. 
 <img width="520" height="458" alt="mf steerwheel 3" src="https://github.com/user-attachments/assets/8ca1f74a-65d1-49f8-aede-9fadd3997553" />
 <img width="567" height="438" alt="mf steerwheel 2" src="https://github.com/user-attachments/assets/5196b219-f83a-4a21-a3a6-277d7856ace3" />
 
-![PXL_20260116_161837571](https://github.com/user-attachments/assets/ad23398d-45b4-414b-ac5d-245b6c9f4ae4)
-![PXL_20260116_161953877](https://github.com/user-attachments/assets/edbfdbaa-3c34-![PXL_20260116_161951044](https://github.com/user-attachments/assets/41a1061f-995a-4966-9fb7-8514cefd5080)
-![PXL_20260116_161837571(1)](https://github.com/user-attachments/assets/78a220a2-4634-4703-8ba2-cd68a4a105df)
-4217-8487-3de2b73d2aee)
+![PXL_20260116_161837571(1)](https://github.com/user-attachments/assets/6a119f3a-2b5a-412f-9d60-54cc49c7b51a)
+![PXL_20260116_161953877](https://github.com/user-attachments/assets/0b34046c-415d-4cc6-b676-576f6aae8176)
+
 
 🛠 Features
 
