@@ -7,7 +7,7 @@ Parametric OpenSCAD mount for Keya steering motors on Massey Ferguson consoles. 
 
     Massey Ferguson 4700 M-Series: 4708 M, 4709 M, 4710 M.
 
-    Motor: Keya Brushless Electric Steering Motor.
+    Motor: Keya Brushless Electric Steering Motor, with bracket and adapter "N"
 
 <img width="578" height="465" alt="mf steerwheel" src="https://github.com/user-attachments/assets/9b9d3c3b-5674-43dd-a152-267c512f25a5" />
 <img width="520" height="458" alt="mf steerwheel 3" src="https://github.com/user-attachments/assets/8ca1f74a-65d1-49f8-aede-9fadd3997553" />
