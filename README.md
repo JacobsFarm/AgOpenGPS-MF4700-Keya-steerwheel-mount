@@ -52,3 +52,9 @@ Since this model contains multiple parts, you need to toggle the visibility in O
     top_mold.stl: Printable top section.
 
     bottom_mold.stl: Printable bottom section.
+
+## 🔗 Find more on Thingiverse
+This project is also available on **Thingiverse**. If you would like to see more of my 3D projects and OpenSCAD designs, please visit my profile:
+
+👉 [**JacobsFarm on Thingiverse**](https://www.thingiverse.com/JacobsFarm/designs)
+    
