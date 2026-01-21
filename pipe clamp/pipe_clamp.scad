@@ -12,7 +12,7 @@ block_width       = 80;
 gap               = 4;
 tolerance         = 0.0; 
 
-bolt_diameter     = 8.2; 
+bolt_diameter     = 8.4; 
 bolt_margin_v     = 10; // Vertical margin for bolts
 
 recess_diameter   = 16.2; 
