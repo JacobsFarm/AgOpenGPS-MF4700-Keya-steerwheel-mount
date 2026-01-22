@@ -2,6 +2,9 @@
 
 The model is fully customizable. You can modify the following variables at the top of the `.scad` file to suit your needs.
 
+![PXL_20260122_123735240](https://github.com/user-attachments/assets/5f94d530-6f5a-4595-866e-7de0eb7ad897)
+![PXL_20260122_123745819](https://github.com/user-attachments/assets/7804ae1a-e1db-4bc6-8e11-fb55a3784f18)
+
 ### 1. Visibility & Print Toggles
 
 These toggles control what parts are rendered in the preview window.
