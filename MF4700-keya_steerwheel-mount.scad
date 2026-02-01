@@ -16,7 +16,7 @@ dash_height = 55; // d
 side_wall   = 25; // Thickness of the mold side walls
 top_wall    = 10; // Thickness of the top/bottom plates
 clearance   = 0.3; // Small gap for fitment tolerance
-mold_height = 25; // Height of the vertical mold section
+mold_height = 26; // Height of the vertical mold section
 
 // --- CABLE HOOK PARAMETERS ---
 // Dimensions for the accessory hook module
@@ -225,3 +225,4 @@ module bottom_mold(b_v, b_a, l, d, z_wand, t_wand, gap, m_h) {
         translate([-extra_hole_x_offset, extra_hole_y_offset, start_z - 1]) cylinder(d = extra_hole_diameter, h = total_height + 2, $fn = 50);
     }
 }
+
