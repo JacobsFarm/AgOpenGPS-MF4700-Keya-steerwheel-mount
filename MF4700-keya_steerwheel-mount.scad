@@ -22,7 +22,7 @@ mold_height = 26; // Height of the vertical mold section
 // Dimensions for the accessory hook module
 inner_width     = 14;
 height_left     = 28;    
-height_right    = 14;   
+height_right    = 13;   
 thickness       = 5;           
 depth           = 15;          
 resolution      = 50;
@@ -225,4 +225,5 @@ module bottom_mold(b_v, b_a, l, d, z_wand, t_wand, gap, m_h) {
         translate([-extra_hole_x_offset, extra_hole_y_offset, start_z - 1]) cylinder(d = extra_hole_diameter, h = total_height + 2, $fn = 50);
     }
 }
+
 
